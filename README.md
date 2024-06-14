@@ -1,4 +1,4 @@
-```markdown
+
 # RU: Репозиторий проектов в области Data Science: Анализ и прогнозирование количества заказов на такси
 
 ### Данный проект создан в рамках курса Яндекс Практикум: DataScience
@@ -108,4 +108,3 @@ The value of the **RMSE** metric on the test sample should not exceed 48.
 - Tarasova Uliana
 - tarasova.ulya@gmail.com
 - [talurana](https://github.com/talurana)
-```
